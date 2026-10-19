@@ -1,0 +1,10 @@
+APL METAL — NUEVA WEB
+
+Contenido: index.html e imágenes en la carpeta imagenes/.
+
+ANTES DE PUBLICAR:
+1. Comprueba que las fotografías y el logotipo son los definitivos.
+2. Sube index.html y la carpeta imagenes completa al repositorio, manteniendo esa estructura.
+3. No cambies DNS ni nameservers de DonDominio para publicar en Netlify.
+
+La web estática no necesita instalación ni dependencias. Los enlaces de teléfono, WhatsApp y ubicación están incluidos.
